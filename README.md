@@ -9,3 +9,5 @@ Los gráficos que compara el mismo resultado entre todas las simulaciones fueron
 
 En total se realizan 50 simulaciones con todas las combinaciones posibles de cantidad de remiseros (menor igual a 10) y cantidad de viajes hasta la siguiente desinfección (menor igual a 5).
 
+Nota:
+&#x1F4D7; En la primer línea del cuaderno, hay un enlace a Google Collaboratory para poder ejecutar el código y probar su funcionamiento.
